@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "993303655831",
+    "firebase_url": "https://talknearby-6860d.firebaseio.com",
+    "project_id": "talknearby-6860d",
+    "storage_bucket": "talknearby-6860d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993303655831:android:a0149e813b1bdfba",
+        "android_client_info": {
+          "package_name": "com.example.estebel.talknearby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993303655831-smku5nsloc7fsvmmpd8n440p4bo9ed0r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.estebel.talknearby",
+            "certificate_hash": "7c530dd6f26b79514731430e2e89d3f9188c0ee2"
+          }
+        },
+        {
+          "client_id": "993303655831-73bnha7s9cm8pvqb3vsnlftashslu78e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmCi8b8yYSDPzexghQSoAtQzHkNung-IA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993303655831-73bnha7s9cm8pvqb3vsnlftashslu78e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
